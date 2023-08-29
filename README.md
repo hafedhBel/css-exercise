@@ -1,2 +1,2 @@
 # css-exercise
-css poqition exercise
+css position exercise
